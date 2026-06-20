@@ -89,6 +89,7 @@ skills = {
 
 ### 🤖 AI & Machine Learning
 - **Bitcoin Historical Trends** - Analyzing Bitcoin Historical Trends Using IBM Granite AI
+- **ITCareerMatch** - Creating Deep Learning SBERT Model and Generative Chatbot for JobSeeker Project
 
 ### 📱 Mobile Development
 - **WaterGuard** - Flutter application that can report about waters problem
